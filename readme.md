@@ -1,8 +1,7 @@
-# Project 4: Camera Calibration & Augmented Reality
+Camera Calibration & Augmented Reality
 ## Report
-[Khoury Wiki - Project 4](https://wiki.khoury.northeastern.edu/pages/viewpage.action?pageId=108652024)
-[YouTube Video Demo 1 - Virtual Object](https://youtu.be/wt5NadSiemE)
-[YouTube Video Demo 2 - Corner Tracking](https://youtu.be/3BRS64pT6BQ)
+- [Khoury Wiki - Project 4](https://wiki.khoury.northeastern.edu/pages/viewpage.action?pageId=108652024)
+- [YouTube Video Demo 1 - Virtual Object](https://youtu.be/wt5NadSiemE)
 
 ## main.cpp - tasks 1-6 | detectFeatures.cpp - task 7
 
@@ -22,5 +21,3 @@ The user may specify a diffent device ID if they want to use a camera other than
 - libopencv_imgcodecs.4.5.5.dylib
 - libopencv_imgproc.4.5.5.dylib
 - libopencv_videoio.4.5.5.dylib
-
-3 time travel days were used.
