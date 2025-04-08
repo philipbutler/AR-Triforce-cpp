@@ -1,7 +1,5 @@
 Camera Calibration & Augmented Reality
-## Report
-- [Khoury Wiki - Project 4](https://wiki.khoury.northeastern.edu/pages/viewpage.action?pageId=108652024)
-- [YouTube Video Demo 1 - Virtual Object](https://youtu.be/wt5NadSiemE)
+## [Demo](https://youtu.be/wt5NadSiemE)
 
 ## main.cpp - tasks 1-6 | detectFeatures.cpp - task 7
 
