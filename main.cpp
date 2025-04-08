@@ -1,12 +1,3 @@
-/*
-Phil Butler
-
-CS 5330 Computer Vision
-Spring 2022
-
-Project 4 Tasks 1 - 6
-
-*/
 #include <opencv2/calib3d.hpp>
 #include <opencv2/core.hpp>
 #include <opencv2/core/utility.hpp>
